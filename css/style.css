@@ -11,3 +11,10 @@
     font-size: 200%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.font2{
+    color: grey;
+    font-size: 130%;
+}
+.yrow{
+    padding-top: 20px;
+}
